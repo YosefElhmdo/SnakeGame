@@ -1,0 +1,11 @@
+C:\Users\Asus\Desktop\Windows-Form-Snakes-Game-Tutorial-with-c-sharp-Updated-main\Classic Snakes Game Tutorial - MOO ICT\obj\Debug\SnikeGame.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\Windows-Form-Snakes-Game-Tutorial-with-c-sharp-Updated-main\Classic Snakes Game Tutorial - MOO ICT\obj\Debug\SnikeGame.csproj.SuggestedBindingRedirects.cache
+C:\Users\Asus\Desktop\Windows-Form-Snakes-Game-Tutorial-with-c-sharp-Updated-main\Classic Snakes Game Tutorial - MOO ICT\obj\Debug\SnikeGame.csproj.GenerateResource.cache
+C:\Users\Asus\Desktop\Windows-Form-Snakes-Game-Tutorial-with-c-sharp-Updated-main\Classic Snakes Game Tutorial - MOO ICT\obj\Debug\SnikeGame.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\Windows-Form-Snakes-Game-Tutorial-with-c-sharp-Updated-main\Classic Snakes Game Tutorial - MOO ICT\obj\Debug\Snakes_Game.Form1.resources
+C:\Users\Asus\Desktop\Windows-Form-Snakes-Game-Tutorial-with-c-sharp-Updated-main\Classic Snakes Game Tutorial - MOO ICT\obj\Debug\Snakes_Game.Properties.Resources.resources
+C:\Users\Asus\Desktop\Windows-Form-Snakes-Game-Tutorial-with-c-sharp-Updated-main\Classic Snakes Game Tutorial - MOO ICT\bin\Debug\Snakes Game.exe.config
+C:\Users\Asus\Desktop\Windows-Form-Snakes-Game-Tutorial-with-c-sharp-Updated-main\Classic Snakes Game Tutorial - MOO ICT\bin\Debug\Snakes Game.exe
+C:\Users\Asus\Desktop\Windows-Form-Snakes-Game-Tutorial-with-c-sharp-Updated-main\Classic Snakes Game Tutorial - MOO ICT\bin\Debug\Snakes Game.pdb
+C:\Users\Asus\Desktop\Windows-Form-Snakes-Game-Tutorial-with-c-sharp-Updated-main\Classic Snakes Game Tutorial - MOO ICT\obj\Debug\Snakes Game.exe
+C:\Users\Asus\Desktop\Windows-Form-Snakes-Game-Tutorial-with-c-sharp-Updated-main\Classic Snakes Game Tutorial - MOO ICT\obj\Debug\Snakes Game.pdb
